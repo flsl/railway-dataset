@@ -9,6 +9,10 @@
 <table>
 <thead><tr><th>序号</th><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧铁路轨道交通站台安全区域识别分割数据集labelme格式1780张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJ9ybQ==">下载</a></td></tr>
+<tr><td>X光安检目标识别分割数据集lableme格式2000张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJ9yaw==">下载</a></td></tr>
+<tr><td>X光安检固体液体危险品识别分割数据集labelme格式3672张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJ9yaA==">下载</a></td></tr>
+<tr><td>智慧铁路列车车辆和人员检测数据集VOC+YOLO格式5059张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJ9sZw==">下载</a></td></tr>
 <tr><td>隧道渗水空洞检测数据集VOC+YOLO格式1717张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5xvaA==">下载</a></td></tr>
 <tr><td>公路隧道铁路地铁隧道漏水隧道渗水识别分割数据集labelme格式2758张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJpqZA==">下载</a></td></tr>
 <tr><td>智慧铁路轨道岔止冲器铁路要素识别分割数据集labelme格式7238张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJ9pag==">下载</a></td></tr>
