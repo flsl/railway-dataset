@@ -9,6 +9,8 @@
 <table>
 <thead><tr><th>序号</th><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧铁路轨道安全螺栓缺失异物检测数据集VOC+YOLO格式2105张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZtpaw==">下载</a></td></tr>
+<tr><td>智慧铁路轨道铁轨道钉检测数据集VOC+YOLO格式5056张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZppZQ==">下载</a></td></tr>
 <tr><td>智慧铁路轨道交通站台安全区域识别分割数据集labelme格式1780张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJ9ybQ==">下载</a></td></tr>
 <tr><td>X光安检目标识别分割数据集lableme格式2000张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJ9yaw==">下载</a></td></tr>
 <tr><td>X光安检固体液体危险品识别分割数据集labelme格式3672张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJ9yaA==">下载</a></td></tr>
