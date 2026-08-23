@@ -9,6 +9,9 @@
 <table>
 <thead><tr><th>序号</th><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>铁路漏斗车料斗货运车厢底部的卸料口开关状态检测数据集VOC+YOLO格式1522张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm5hwaA==">下载</a></td></tr>
+<tr><td>智慧铁路铁路闭合屏障警示铁路栅栏识别检测数据集VOC+YOLO格式307张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmp9qbA==">下载</a></td></tr>
+<tr><td>智慧铁路巡检轨道探伤钢轨缺陷检测数据集VOC+YOLO格式1464张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmpppaQ==">下载</a></td></tr>
 <tr><td>智慧铁路轨道安全螺栓缺失异物检测数据集VOC+YOLO格式2105张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZtpaw==">下载</a></td></tr>
 <tr><td>智慧铁路轨道铁轨道钉检测数据集VOC+YOLO格式5056张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmZppZQ==">下载</a></td></tr>
 <tr><td>智慧铁路轨道交通站台安全区域识别分割数据集labelme格式1780张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJ9ybQ==">下载</a></td></tr>
