@@ -9,6 +9,10 @@
 <table>
 <thead><tr><th>序号</th><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>铁路异物入侵铁路输电线障碍物检测数据集VOC+YOLO格式2297张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk59ybQ==">下载</a></td></tr>
+<tr><td>智慧铁路沿线隧道周边塌方隐患检测数据集VOC+YOLO格式7397张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk51yZA==">下载</a></td></tr>
+<tr><td>无人机视角铁轨枕木检测数据集VOC+YOLO格式1297张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5htZQ==">下载</a></td></tr>
+<tr><td>轨道紧固件缺陷检测数据集VOC+YOLO格式611张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl59raQ==">下载</a></td></tr>
 <tr><td>铁轨及周边障碍物识别分割数据集labelme格式1207张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp1qaA==">下载</a></td></tr>
 <tr><td>铁路路旁道闸开关状态检测数据集VOC+YOLO格式279张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp1paw==">下载</a></td></tr>
 <tr><td>铁路轨道异物入侵检测数据集VOC+YOLO格式2541张4类别PS合成版</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlpppbA==">下载</a></td></tr>
