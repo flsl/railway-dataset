@@ -9,6 +9,10 @@
 <table>
 <thead><tr><th>序号</th><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧铁路鱼眼全景监控视角工人与车厢连接件检测数据集VOC+YOLO格式15417张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZlvbQ==">下载</a></td></tr>
+<tr><td>智慧铁路工人检测数据集VOC+YOLO格式2515张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZluZw==">下载</a></td></tr>
+<tr><td>智慧铁路铁轨与人员识别分割数据集labelme格式3173张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZhybA==">下载</a></td></tr>
+<tr><td>智慧铁路铁轨火灾检测数据集VOC+YOLO格式1936张1类别</td><td><a href="https://mbd.pub/o/bread/YZaWlJZwbA==">下载</a></td></tr>
 <tr><td>铁路异物入侵铁路输电线障碍物检测数据集VOC+YOLO格式2297张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk59ybQ==">下载</a></td></tr>
 <tr><td>智慧铁路沿线隧道周边塌方隐患检测数据集VOC+YOLO格式7397张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk51yZA==">下载</a></td></tr>
 <tr><td>无人机视角铁轨枕木检测数据集VOC+YOLO格式1297张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5htZQ==">下载</a></td></tr>
